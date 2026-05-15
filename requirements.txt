@@ -1,0 +1,12 @@
+# AI and Tools
+crewai
+langchain-community
+
+# UI
+streamlit
+
+# Validation
+pydantic
+
+# Other
+ddgs

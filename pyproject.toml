@@ -1,0 +1,13 @@
+[project]
+name = "ai-agent-for-explain-topic"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "crewai>=1.14.3",
+    "ddgs>=9.14.1",
+    "fpdf2>=2.8.7",
+    "langchain-community>=0.4.1",
+    "streamlit>=1.56.0",
+]
