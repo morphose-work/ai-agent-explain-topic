@@ -12,7 +12,7 @@
 ## 🚀 Как запустить
 
 1. Клонируй репозиторий:
-   git clone https://github.com/твой-ник/repo.git
+   git clone (https://github.com/morphose-work/ai-agent-explain-topic)
 
 2. Установи зависимости:
    pip install -r requirements.txt
